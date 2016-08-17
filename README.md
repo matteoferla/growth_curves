@@ -8,4 +8,4 @@ Matlab code to fit bacterial growth curves.
 * `platelayout.m` — accepts a vector of 96 dimensions or a 8x12 matrix and a string (to become the title) and plots a `imagesc`, but like a plate with NaNs as crossed wells.
 * `platename.m` — converts a number to a string as a well position or vice-versa.
 
-Discussion can be [here](http://blog.matteoferla.com/2016/03/growth-curves.html).
+Discussion can be found [here](http://blog.matteoferla.com/2016/03/growth-curves.html).
